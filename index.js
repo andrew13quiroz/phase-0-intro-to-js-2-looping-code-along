@@ -1,1 +1,5 @@
-// Code your solutions in this file
+const name = ["Guadalupe", "Ollie", "Aki"];
+
+function writeCards([names], event){
+    
+}
